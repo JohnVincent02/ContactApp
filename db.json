@@ -1,0 +1,67 @@
+{
+  "contactList": [
+    {
+      "firstName": "Deva",
+      "lastName": "Raj",
+      "phoneNumber": "8877412222",
+      "email": "deva@gmail.com",
+      "address": "Kochi",
+      "company": "JCompany",
+      "id": "IvvJm-s2Kg0"
+    },
+    {
+      "firstName": "Aleeta",
+      "lastName": "Solomon",
+      "phoneNumber": "7878410011",
+      "email": "aleet@gmail.com",
+      "address": "NHouse",
+      "company": "D Industries",
+      "id": "nuTfT1Dcoks"
+    },
+    {
+      "firstName": "Akshai",
+      "lastName": "Jaya",
+      "phoneNumber": "7744114477",
+      "email": "ak@gmail.com",
+      "address": "THouse",
+      "company": "Sutherland",
+      "id": "M9UaiwhLSV4"
+    },
+    {
+      "firstName": "Riyaas",
+      "lastName": "Rasheed",
+      "phoneNumber": "7411477414",
+      "email": "r@gmail.com",
+      "address": "DVHouse",
+      "company": "Web Brand",
+      "id": "ZqJa9xMpags"
+    },
+    {
+      "firstName": "Hari",
+      "lastName": "Kumar",
+      "phoneNumber": "7878454512",
+      "email": "hari@gmail.com",
+      "address": "JT House",
+      "company": "XLS support",
+      "id": "p4rG2n1STzI"
+    },
+    {
+      "firstName": "Livin",
+      "lastName": "Tony",
+      "phoneNumber": "4578421639",
+      "email": "Livin@gmail.com",
+      "address": "Lt House",
+      "company": "7412589636",
+      "id": "0BBBHOYG-Sk"
+    },
+    {
+      "firstName": "Delvi",
+      "lastName": "Mathew",
+      "phoneNumber": "7412589644",
+      "email": "delvin123@gmail.com",
+      "address": "SDK House",
+      "company": "AK Company",
+      "id": "cxPbf33yenY"
+    }
+  ]
+}
